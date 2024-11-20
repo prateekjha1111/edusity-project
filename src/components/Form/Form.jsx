@@ -32,7 +32,7 @@ export default function Form() {
       <form onSubmit={onSubmit}>
         <label>Name</label>
         <input type="text" name="name" required placeholder="Enter your name" />
-        <label>Name</label>
+        <label>Phone</label>
         <input
           type="tel"
           name="phone"
